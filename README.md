@@ -51,3 +51,6 @@ kable_styling(kable(result4, format = "latex", digits = 3), full_width = F)
 
 * Model Limitation: can only be applied to similiar text data, cannot be applied to new data that looks quiet different to old comments unless re-train the model 
 * Future improvement: Can try some other models like randomeforest and further tune the DTM
+
+# Rshiny Visulization
+[please click here](https://yuhuiluo.shinyapps.io/shiny/)
