@@ -53,6 +53,7 @@ kable_styling(kable(result4, format = "latex", digits = 3), full_width = F)
 * Future improvement: Can try some other models like randomeforest and further tune the DTM
 
 # Rshiny Visulization
-![alt text](https://raw.githubusercontent.com/spotify2junkie/imdb_sentiment_analysis/pic.png)
+![alt text](https://raw.githubusercontent.com/spotify2junkie/imdb_sentiment_analysis/pic.png
+      )
 
 [please click here](https://yuhuiluo.shinyapps.io/shiny/)
